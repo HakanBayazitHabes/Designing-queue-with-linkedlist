@@ -1,0 +1,4 @@
+﻿  C++ 2.Ödev.cpp
+C:\Users\user\Desktop\VeriYapıları 2.Ödev\C++ 2.Ödev\C++ 2.Ödev\C++ 2.Ödev.cpp(87): warning C4717: 'siraliEkle': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\user\Desktop\VeriYapıları 2.Ödev\C++ 2.Ödev\C++ 2.Ödev\C++ 2.Ödev.cpp(182): warning C4715: 'Yigin::cikar': not all control paths return a value
+  C++ 2.Ödev.vcxproj -> C:\Users\user\Desktop\VeriYapıları 2.Ödev\C++ 2.Ödev\x64\Debug\C++ 2.Ödev.exe
